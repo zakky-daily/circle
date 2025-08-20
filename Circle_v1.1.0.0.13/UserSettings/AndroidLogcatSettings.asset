@@ -1,0 +1,151 @@
+{
+    "m_SelectedDeviceId": "00a3c71edd4724c6",
+    "m_SelectedPackage": {
+        "deviceId": "00a3c71edd4724c6",
+        "name": "com.AsatoKitazaki.Circle",
+        "processId": 18587,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "00a3c71edd4724c6",
+            "name": "com.MyCompany.GameMaker.Develop_v014",
+            "processId": 13459,
+            "exited": true
+        },
+        {
+            "deviceId": "00a3c71edd4724c6",
+            "name": "com.MyCompany.GameMaker.Develop_v014",
+            "processId": 7898,
+            "exited": true
+        },
+        {
+            "deviceId": "00a3c71edd4724c6",
+            "name": "com.MyCompany.GameMaker.Develop_v014",
+            "processId": 1320,
+            "exited": true
+        },
+        {
+            "deviceId": "00a3c71edd4724c6",
+            "name": "com.google.android.googlequicksearchbox",
+            "processId": 6176,
+            "exited": true
+        },
+        {
+            "deviceId": "00a3c71edd4724c6",
+            "name": "com.AsatoKitazaki.Circle",
+            "processId": 18587,
+            "exited": false
+        },
+        {
+            "deviceId": "AQUWZH85TKBEYP85",
+            "name": "com.MyCompany.GameMaker.Develop_v013",
+            "processId": 27534,
+            "exited": true
+        },
+        {
+            "deviceId": "AQUWZH85TKBEYP85",
+            "name": "com.MyCompany.GameMaker.Develop_v013",
+            "processId": 27983,
+            "exited": true
+        },
+        {
+            "deviceId": "AQUWZH85TKBEYP85",
+            "name": "com.MyCompany.GameMaker.Develop_v013",
+            "processId": 28418,
+            "exited": true
+        },
+        {
+            "deviceId": "AQUWZH85TKBEYP85",
+            "name": "com.MyCompany.GameMaker.Develop_v013",
+            "processId": 28840,
+            "exited": true
+        },
+        {
+            "deviceId": "AQUWZH85TKBEYP85",
+            "name": "com.MyCompany.GameMaker.Develop_v014",
+            "processId": 26676,
+            "exited": false
+        },
+        {
+            "deviceId": "AQUWZH85TKBEYP85",
+            "name": "com.MyCompany.GameMaker.Develop.v0_1_2",
+            "processId": 26898,
+            "exited": false
+        },
+        {
+            "deviceId": "AQUWZH85TKBEYP85",
+            "name": "com.MyCompany.GameMaker.Develop_v014",
+            "processId": 27376,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}

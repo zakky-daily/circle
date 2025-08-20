@@ -1,0 +1,56 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "core-1.0.0-rc02"
+  }
+  digests {
+    sha256: "\375\245(7>\364\252\275n5$\310\033\364m\0229\225\341\005M\213\266\363\026<H\224]d0Q"
+  }
+}
+library {
+  maven_library {
+    artifactId: "NatShare"
+  }
+  digests {
+    sha256: "\206\025\311\001\313\342z\215\307\207\276\271\251Y?Z\004\361)(\343\335\031\3154\v$]N\360\203\342"
+  }
+}
+library {
+  maven_library {
+    artifactId: "AndroidBar-debug"
+  }
+  digests {
+    sha256: "\356\233\260\023\030\236}\035V\221\333\fvc\326\242\2474\364\343x3\313\223%\254\250tQ\267\"+"
+  }
+}
+library {
+  digests {
+    sha256: "\302\335\352Nu\307\3238I\236\275\336o\177\346V\027\264\367+t\2656\205\b\003qd\a\035h\346"
+  }
+}
+library {
+  digests {
+    sha256: "\024\353\272\356\341\314\001\331{(5\177J\350\327Y\'\006\304n\364\366\205p\023\325=\177\240\365\034I"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+}
+library_dependencies {
+  library_index: 3
+}
+library_dependencies {
+  library_index: 4
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 3
+  dependency_index: 4
+}
