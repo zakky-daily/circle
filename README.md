@@ -13,4 +13,7 @@
 <img src="https://github.com/zakky-daily/circle/blob/main/screenshots/4.png" width=18%>
 <img src="https://github.com/zakky-daily/circle/blob/main/screenshots/5.png" width=18%>
 
-アプリ甲子園(2022年)　1次選考通過作品
+アプリ甲子園(2022年)　1次選考通過作品<br><br>
+
+|閲覧方法　Circle_v1.1.0.0.13をダウンロードし、Unity Hubで読み込んでください。|
+|:-|
